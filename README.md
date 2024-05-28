@@ -16,7 +16,7 @@
 3. Xác nhận chữ ký
 4. Nếu văn bản đã được chỉnh sửa hoặc chữ ký kèm theo không chính xác sẽ xuất ra thông báo là văn bản đã được chỉnh sửa hoặc chữ ký không chính xác.
 5. Nếu văn bản và chữ ký đều chính xác thì chương trình sẽ thông báo chữ ký đã chính xác.
-6. 
+   
 ![image](https://github.com/manhvann/BTL_ATBMTT_NHOM6/assets/108862213/2fc7801c-8814-419a-aa9c-ae4d95a01f04)
 
 
