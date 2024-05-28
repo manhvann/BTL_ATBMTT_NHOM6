@@ -1,6 +1,6 @@
 # BTL_ATBMTT_NHOM6
 - Tại giao diện tạo khóa chúng ta nhấn vào phần tạo khóa để sinh khóa công khai và khóa bí mật
-- 
+  
 ![image](https://github.com/manhvann/BTL_ATBMTT_NHOM6/assets/108862213/e8a6e187-76df-4bc8-8c07-0ebcad83b9b8)
 
 - Tại giao diện ký văn bản ta lần lượt thực hiện các bước sau:
